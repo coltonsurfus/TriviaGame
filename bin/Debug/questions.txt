@@ -1,0 +1,34 @@
+What is 2+2?,3,4,4
+Is Iowa in the United States?,Yes,No,Yes
+True or False: Milk comes from a cow,True,False,True
+True or False: The Sky is green,True,False,False
+What is 213*0?,0,213,0
+When was the United States founded?,1775,1776,1776
+The Sun is what color?,Yellow,Blue,Yellow
+An Apple belongs in what food group?,Fruit,Meat,Fruit
+True or False: A is the first letter in the alphabet,True,False,True
+True or False: The Pacific Ocean is on the East Coast of the United States,True,False,False
+What is 1+1?,1,2,2
+What is 5*5?,20,25,25
+What is 1*1?,1,2,1
+What is 6+6,12,13,12
+Texas is a what?,Country,State,State
+Des Moines is the capital of what state?,Iowa,Ohio,Iowa
+The logo of Twitter is a what?,Bird,Snake,Bird
+True or False: Apple created the iPhone,True,False,True
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
